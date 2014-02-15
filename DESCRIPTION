@@ -6,7 +6,7 @@ Date: 2014-02-15
 Author: Dason Kurkiewicz
 Maintainer: Dason Kurkiewicz <dasonk@iastate.edu>
 Description: Allows you to search for repos on github
-License: MIT
+License: MIT + file LICENSE
 Imports:
     RCurl,
     RJSONIO
